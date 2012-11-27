@@ -3,12 +3,13 @@ Sites à scanner :
  - ryanair.com
  - eurolines.fr
  - eurostar.com
+ - toto.com
 
 Langage de programmation de l'application :
 Java
 
 Serveur d'application :
-tomcat 7
+tomcat 6 
 
 Couleurs de l'application :
 Rouge sur fond vert
