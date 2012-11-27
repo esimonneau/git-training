@@ -9,7 +9,7 @@ Langage de programmation de l'application :
 Java
 
 Serveur d'application :
-tomcat 6 
+tomcat  5
 
 Couleurs de l'application :
 Rouge sur fond vert
